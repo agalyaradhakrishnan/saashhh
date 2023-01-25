@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo,.logo a{
+    color: rgb(55, 250, 185);
+    font-size: 25px;  
+}
+.nav-link:hover{
+    color: rgb(55, 250, 185);
+    text-decoration: underline;
+}
+.bhead{
+    background-color:rgb(55, 250, 185) ;
+    width: 100%;
+    height: 5%;
+}
+.hotxt{
+    width: 100%;
+    height: 60vh;
+}
+.hotxt h4{
+    margin-top:10%;
+}
+.txt3 i{
+    border-radius: 50%;
+    padding: 5px 5px;
+    color: white;
+    background-color: rgb(55, 250, 185) ;
+}
+
+    
